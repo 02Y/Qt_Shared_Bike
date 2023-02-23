@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bike.gif</file>
+        <file>images/tip.png</file>
+        <file>main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>MsgDialog.qml</file>
+        <file>RegisterPage.qml</file>
+        <file>+android/LoadProgressStyle.qml</file>
+        <file>LoadProgressStyle.qml</file>
+        <file>qwebchannel.js</file>
+        <file>MapWindow.qml</file>
+    </qresource>
+</RCC>
