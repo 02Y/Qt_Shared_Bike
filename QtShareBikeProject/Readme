@@ -1,2 +1,2 @@
 该文件存放Qt_Shared_Bike需要的库，protobuf文件，以及扫码图片
-运行App前需解压并配置库，可见 Qt_Shared_Bike.pro 文件
+构建App安装包前需解压并配置库，可见 Qt_Shared_Bike.pro 文件
